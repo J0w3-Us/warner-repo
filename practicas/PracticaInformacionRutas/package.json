@@ -1,0 +1,12 @@
+{
+  "name": "practica-informacion-rutas",
+  "version": "1.0.0",
+  "description": "Práctica: manejo de rutas y CRUD en memoria (usuarios)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
